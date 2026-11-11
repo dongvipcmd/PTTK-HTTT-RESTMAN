@@ -1,0 +1,12 @@
+model\ImportReceipt.class
+model\Supplier.class
+dao\DAO.class
+dao\DishDAO.class
+dao\SupplierDAO.class
+model\Dish.class
+model\Ingredient.class
+model\Member.class
+dao\MemberDAO.class
+dao\IngredientDAO.class
+model\ImportReceiptDetail.class
+dao\ImportReceiptDAO.class
